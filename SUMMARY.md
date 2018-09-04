@@ -38,6 +38,8 @@
     
     * [9.4、Deep Belief Networks深信度网络](/details/c9.4.md)
     
+    * [9.5、Convolutional Neural Networks卷积神经网络](/details/c9.5.md)
+    
     
     
 * [十、总结与展望](/details/c10.md)
