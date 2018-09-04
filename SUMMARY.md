@@ -40,8 +40,6 @@
     
     * [9.5、Convolutional Neural Networks卷积神经网络](/details/c9.5.md)
     
-    
-    
 * [十、总结与展望](/details/c10.md)
 
 * [十一、参考文献和Deep Learning学习资源](/details/c11.md)
