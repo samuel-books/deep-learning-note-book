@@ -19,6 +19,7 @@
 
 * [八、Deep learning训练过程](/details/c8.md)
     * [8.1、传统神经网络的训练方法为什么不能用在深度神经网络](/details/c8.1.md)
+    * [8.2、deep learning训练过程](/details/c8.2.md)
 
 * [九、Deep Learning的常用模型或者方法](/details/c9.md)
 
