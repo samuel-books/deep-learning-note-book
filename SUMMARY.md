@@ -1,6 +1,6 @@
 # Summary
 
-* [一、概述](/details/c1.md)
+* [一、概述](/README.md)
 
 * [二、背景](/details/c2.md)
 
