@@ -23,7 +23,7 @@
 
 * [九、Deep Learning的常用模型或者方法](/details/c9.md)
     * [9.1、AutoEncoder自动编码器](/details/c9.1.md)
-
+    * [9.2、Sparse Coding稀疏编码](/details/c9.2.md)
 
 * [十、总结与展望](/details/c10.md)
 
