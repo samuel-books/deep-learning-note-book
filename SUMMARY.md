@@ -7,6 +7,7 @@
 * [三、人脑视觉机理](/details/c3.md)
 
 * [四、关于特征](/details/c4.md)
+    * [4.1、特征表示的粒度](/details/c4.1.md)
 
 * [五、Deep Learning的基本思想](/details/c5.md)
 
