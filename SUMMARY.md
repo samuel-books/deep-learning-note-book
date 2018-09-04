@@ -36,6 +36,10 @@
     
     * [9.3、Restricted Boltzmann Machine (RBM)限制波尔兹曼机](/details/c9.3.md)
     
+    * [9.4、Deep Belief Networks深信度网络](/details/c9.4.md)
+    
+    
+    
 * [十、总结与展望](/details/c10.md)
 
 * [十一、参考文献和Deep Learning学习资源](/details/c11.md)
