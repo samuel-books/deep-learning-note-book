@@ -22,6 +22,8 @@
     * [8.2、deep learning训练过程](/details/c8.2.md)
 
 * [九、Deep Learning的常用模型或者方法](/details/c9.md)
+    * [9.1、AutoEncoder自动编码器](/details/c9.1.md)
+
 
 * [十、总结与展望](/details/c10.md)
 
