@@ -8,14 +8,6 @@
 
 * [四、关于特征](/details/c4.md)
 
-    * [4.1、特征表示的粒度](/details/c4.1.md)
-    
-    * [4.2、初级（浅层）特征表示](/details/c4.2.md)
-    
-    * [4.3、结构性特征表示](/details/c4.3.md)
-    
-    * [4.4、需要有多少个特征？](/details/c4.4.md)
-    
 * [五、Deep Learning的基本思想](/details/c5.md)
 
 * [六、浅层学习（Shallow Learning）和深度学习（Deep Learning）](/details/c6.md)
