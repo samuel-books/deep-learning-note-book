@@ -1,5 +1,4 @@
 # Summary
-
 * [概述](/README.md)
 * [背景](/details/c2.md)
 * [人脑视觉机理](/details/c3.md)
